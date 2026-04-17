@@ -16,4 +16,4 @@ python budget.py
 - Python 3
 - tkinter
 - matplotlib
-- csv module
+- csv module.
