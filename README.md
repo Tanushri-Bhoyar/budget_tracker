@@ -6,7 +6,7 @@ A personal budget tracker built with Python and tkinter.
 - Add income and expenses
 - See total savings instantly
 - Visual pie chart of expenses
-- Auto saves to CSV file
+- Auto saves to CSV file.
 
 ## How to run
 pip install matplotlib
