@@ -1,6 +1,6 @@
 # Budget Tracker
 
-A personal budget tracker built with Python and tkinter
+A personal budget tracker built with Python and tkinter.
 
 ## Features
 - Add income and expenses
